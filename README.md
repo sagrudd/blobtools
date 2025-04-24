@@ -1,5 +1,10 @@
-BlobTools v1.1
+BlobTools v1.1.2
 ===============================
+
+This code has been forked from [BlobTools](https://github.com/DRL/blobtools) and has been assigned the semver
+release id `v1.1.2`. This increments the last release from the primary repository and accommodates the trivial
+changes in the `setup.py` for the code to install with `pip3`.
+
 A modular command-line solution for visualisation, quality control and taxonomic partitioning of genome datasets
 
 - Discussions, questions and answers: [BlobTools GoogleGroup](https://groups.google.com/forum/#!forum/blobtools)
